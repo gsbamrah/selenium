@@ -22,32 +22,7 @@
     <favorites_list name="selenium" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Screenshot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter4/Screenshot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="65" column="67" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DifferentBrowser.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter5/DifferentBrowser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5610561">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,12 +40,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/training/chapter1/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/training/chapter2/SeleniumMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/training/chapter3/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/training/chapter5/DifferentBrowser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/training/chapter4/Screenshot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/training/chapter3/TypeOfWait.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/training/chapter2/SeleniumMethods.java" />
       </list>
     </option>
   </component>
@@ -117,7 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -338,8 +313,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,40 +327,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="TestNG.TypeOfWait.implicitWait">
-    <configuration default="false" name="DifferentBrowser.runOnChrome" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.training.chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="selenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.training.chapter5" />
-      <option name="MAIN_CLASS_NAME" value="com.training.chapter5.DifferentBrowser" />
-      <option name="METHOD_NAME" value="runOnChrome" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG.SeleniumMethods.Navigate">
     <configuration default="false" name="DifferentBrowser.runOnSafari" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -499,6 +441,39 @@
       <option name="PACKAGE_NAME" value="com.training.chapter3" />
       <option name="MAIN_CLASS_NAME" value="com.training.chapter3.TypeOfWait" />
       <option name="METHOD_NAME" value="implicitWait" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="SeleniumMethods.Navigate" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.training.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="selenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.training.chapter2" />
+      <option name="MAIN_CLASS_NAME" value="com.training.chapter2.SeleniumMethods" />
+      <option name="METHOD_NAME" value="Navigate" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -801,19 +776,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnChrome" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnSafari" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnInternetExplorer" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.Screenshot.takeScreenshot" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.TypeOfWait.implicitWait" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnSafari" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnInternetExplorer" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.Screenshot.takeScreenshot" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.TypeOfWait.implicitWait" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.SeleniumMethods.Navigate" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.TypeOfWait.implicitWait" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.Screenshot.takeScreenshot" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnInternetExplorer" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnSafari" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnChrome" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.SeleniumMethods.Navigate" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.TypeOfWait.implicitWait" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.Screenshot.takeScreenshot" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnInternetExplorer" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.DifferentBrowser.runOnSafari" />
       </list>
     </recent_temporary>
   </component>
@@ -831,9 +806,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DifferentBrowser_runOnInternetExplorer - 2016.02.14 at 16h 56m 34s.xml">
-      <configuration name="DifferentBrowser.runOnInternetExplorer" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DifferentBrowser_runOnInternetExplorer - 2016.02.14 at 16h 58m 27s.xml">
       <configuration name="DifferentBrowser.runOnInternetExplorer" configurationId="TestNG" />
     </history-entry>
@@ -858,12 +830,15 @@
     <history-entry file="Screenshot_takeScreenshot - 2016.02.15 at 15h 31m 43s.xml">
       <configuration name="Screenshot.takeScreenshot" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SeleniumMethods_Navigate - 2016.02.15 at 20h 46m 58s.xml">
+      <configuration name="SeleniumMethods.Navigate" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="TypeOfWait_implicitWait - 2016.02.15 at 15h 37m 00s.xml">
       <configuration name="TypeOfWait.implicitWait" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -913,6 +888,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter2/SeleniumMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter1/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter4/Screenshot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1110,16 +1103,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter1/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9438944">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter4/ScreenShotOnDifferentBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1136,24 +1119,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter2/SeleniumMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3523316">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter4/Screenshot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="67" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter5/DifferentBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5610561">
@@ -1161,6 +1126,34 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter4/Screenshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.074257426">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter2/SeleniumMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5214522">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/training/chapter1/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15841584">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
