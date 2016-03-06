@@ -38,9 +38,13 @@ public class TypeOfWait {
     @Test(groups = { "Wait"})
     public void explictWait() {
         driver.get("http://www.google.com");
-        WebElement myDynamicElement = (new WebDriverWait(driver, 60))
-                .until(ExpectedConditions.presenceOfElementLocated(By.name("q")));
+
+
+
+        WebDriverWait wait = new WebDriverWait(driver, 10);
+           WebElement element=wait.until(ExpectedConditions.presenceOfElementLocated(By.name("q")));
         driver.close();
+
 
        // Element is Clickable - it is Displayed and Enabled.
         //WebDriverWait wait = new WebDriverWait(driver, 10);
